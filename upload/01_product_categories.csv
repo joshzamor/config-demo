@@ -1,0 +1,11 @@
+Category Code,Category Name,Display Order
+antibiotics,Antibiotics,1
+antiretrovials,Anti-retrovirals,2
+malariaprophylaxis,Malaria Prophylaxis,3
+protective,Gloves and Protective Gear,4
+antacids,Antacids,5
+testkits,Test Kits,6
+antipyretics,Anti-pyretics,7
+antimalarials,Anti-malarials,8
+vac,Vaccine,9
+nonvac,Non-Vaccine,10

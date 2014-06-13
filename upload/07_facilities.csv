@@ -1,0 +1,8 @@
+Facility Code,Facility Name,Facility Description,Geographic Zone Code,Facility Type Code,Catchment Population,Facility LAT,Facility LONG,Facility Supplies Others,Facility Is SDP,Is Active,Facility Go Live Date,Enabled
+F10010,Fac1,,sonene,hc,24000,,,f,t,t,01/01/2003,t
+F10050,Fac2,,sonene,hc,20000,,,f,t,t,01/01/2003,t
+F3020A,Fac3,,sonene,dh,50000,,,f,t,t,01/01/2003,t
+F30774,Fac4,,sonene,disp,3000,,,f,t,t,01/01/2003,t
+F3060B,Fac5,,sonene,hp,2000,,,f,t,t,01/01/2003,t
+F29418,Fac6,,sonene,hc,30000,,,f,t,t,01/01/2003,t
+F505,Fac7,,sonene,nh,1000000,,,t,t,t,01/01/2003,t

@@ -1,0 +1,14 @@
+targetgroupentity,productcode,childcoverage
+BCG,bcg20,t
+Polio (Newborn),polio10,t
+Polio 1st dose,polio10,t
+Polio 2nd dose,polio10,t
+Polio 3rd dose,polio10,t
+Penta 1st dose,penta1,t
+Penta 2nd dose,penta1,t
+Penta 3rd dose,penta1,t
+PCV10 1st dose,pcv10,t
+PCV10 2nd dose,pcv10,t
+PCV10 3rd dose,pcv10,t
+Measles,measles10,t
+Pregnant Women,tetanus10,f
