@@ -1,16 +1,16 @@
 Product Code,Product Primary Name,Product Form,Product Group,Dosage Units,Dispensing Units,Doses Per Dispensing Unit,Pack Size,Product Is Active,Product Is Full Supply,Is A Tracer Product,Pack Rounding Threshold,Can Round To Zero
-P10048,3TC/AZT + NVP,tablet,,mg,mg,10,50,t,t,f,25,f
-P12573,TDF/FTC/EFV,tablet,,mg,mg,3,20,t,t,f,10,f
-P200563,Omeprazole,tablet,,mg,mg,20,5,t,f,f,4,f
-A41099,Doxycycline,tablet,,mg,mg,10,12,t,t,f,3,f
+P10048,3TC/AZT + NVP,tablet,,mg,60 tab bottle,10,50,t,t,f,25,f
+P12573,TDF/FTC/EFV,tablet,,mg,30 tab bottle,3,20,t,t,f,10,f
+P200563,Omeprazole,tablet,,mg,each,20,5,t,f,f,4,f
+A41099,Doxycycline,tablet,,mg,12 tab strip,10,12,t,t,f,3,f
 S00056L,"Gloves, surgical latex, powered",pair,,each,each,1,100,t,t,f,25,f
-A53007D,Co-Trimoxazole DS,capsule,,mg,mg,10,20,t,f,f,5,f
+A53007D,Co-Trimoxazole DS,capsule,,mg,10 tab strip,10,20,t,f,f,5,f
 KM3375-2,Malaria Rapid Diagnostic Test,card,,each,each,1,50,t,t,f,20,f
-P000833,Quinine Sulphate,capsule,,mg,mg,1,500,t,t,f,200,f
-A427826,Ciproflaxin,capsule,,mg,mg,10,10,t,t,f,5,f
-A581453,Ampicillin PDR,injection,,mg,mg,10,50,t,t,f,20,f
-N-378013,Tramedol,injection,,mg,mg,2,10,t,f,f,25,f
-P-228438,Diclofenac,tablet,,mg,mg,1,100,t,f,f,50,f
+P000833,Quinine Sulphate,capsule,,mg,each,1,500,t,t,f,200,f
+A427826,Ciproflaxin,capsule,,mg,10 tab strip,10,10,t,t,f,5,f
+A581453,Ampicillin PDR,injection,,mg,each,10,50,t,t,f,20,f
+N-378013,Tramedol,injection,,mg,each,2,10,t,f,f,25,f
+P-228438,Diclofenac,tablet,,mg,each,1,100,t,f,f,50,f
 bcg20,BCG,injection,1bcg,each,each,1,20,t,t,f,1,t
 polio10,Polio (10 dose),injection,2polio,each,each,1,10,t,t,f,1,t
 polio20,Polio (20 dose),injection,2polio,each,each,1,20,t,t,f,1,t
