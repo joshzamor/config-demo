@@ -1,0 +1,4 @@
+code,name,displayorder
+AD,Adult,1
+CH,Child,2
+IN,Infant,3
