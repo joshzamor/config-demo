@@ -1,0 +1,9 @@
+Facility Code,Facility Name,Facility Description,Geographic Zone Code,Facility Type Code,Catchment Population,Facility LAT,Facility LONG,Facility Supplies Others,Facility Is SDP,Is Active,Facility Go Live Date,Enabled
+F10010,Sumner Health Center,,jefferson,health_center,24000,,,f,t,t,01/01/2003,t
+F10050,Palmyra Health Center,,jefferson,health_center,20000,,,f,t,t,01/01/2003,t
+F3020A,Madison Hospital,,dane,dist_hosp,50000,,,t,t,t,01/01/2003,t
+F30774,Bloofield Dispensary,,walworth,disp,3000,,,f,t,t,01/01/2003,t
+F3060B,Easts Troy Dispensary,,walworth,disp,2000,,,f,t,t,01/01/2003,t
+F29418,Richmond Primary Care Center,,walworth,comm_clinic,30000,,,f,t,t,01/01/2003,t
+F505,Shorewood County Hospital,,milwaukee,reg_hosp,1000000,,,f,t,t,01/01/2003,t
+F09,Milwaukee Warehouse,,milwaukee,warehouse,1000000,,,t,f,t,01/01/2003,t

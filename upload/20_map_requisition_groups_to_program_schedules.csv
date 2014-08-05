@@ -1,6 +1,5 @@
 RG Code,Program,Schedule,Direct Delivery,Drop off Facility
-rg1,em,m,1,
-rg2,malaria,m,0,F3020A
+rg1,malaria,m,1,
+rg2,em,m,1,
 rg6,art,m,1,
-rg6,malaria,m,1,
 rg6,em,m,1,
