@@ -1,9 +1,26 @@
 Facility Code,Facility Name,Facility Description,Geographic Zone Code,Facility Type Code,Catchment Population,Facility LAT,Facility LONG,Facility Supplies Others,Facility Is SDP,Is Active,Facility Go Live Date,Enabled
-F10010,Sumner Health Center,,jefferson,health_center,24000,,,f,t,t,01/01/2003,t
-F10050,Palmyra Health Center,,jefferson,health_center,20000,,,f,t,t,01/01/2003,t
-F3020A,Madison Hospital,,dane,dist_hosp,50000,,,t,t,t,01/01/2003,t
-F30774,Bloofield Dispensary,,walworth,disp,3000,,,f,t,t,01/01/2003,t
-F3060B,Easts Troy Dispensary,,walworth,disp,2000,,,f,t,t,01/01/2003,t
-F29418,Richmond Primary Care Center,,walworth,comm_clinic,30000,,,f,t,t,01/01/2003,t
-F505,Shorewood County Hospital,,milwaukee,reg_hosp,1000000,,,f,t,t,01/01/2003,t
-F09,Milwaukee Warehouse,,milwaukee,warehouse,1000000,,,t,f,t,01/01/2003,t
+F001,Agbodji,,bopa,health_center,12358,,,f,t,t,01/01/2014,t
+F002,Badazouin,,bopa,health_center,18238,,,f,t,t,01/01/2014,t
+F003,Gbakpodji,,bopa,health_center,8128,,,f,t,t,01/01/2014,t
+F004,Lobogo,,bopa,health_center,25999,,,f,t,t,01/01/2014,t
+F005,Possotome,,bopa,health_center,10164,,,f,t,t,01/01/2014,t
+FOO6,Yegodoe,,bopa,health_center,15202,,,f,t,t,01/01/2014,t
+FOO7,Bopa,,bopa,health_center,13582,,,f,t,t,01/01/2014,t
+FOO8,Agatogbo,,come,health_center,14397,,,f,t,t,01/01/2014,t
+F009,Akodeha,,come,health_center,14479,,,f,t,t,01/01/2014,t
+F010,Ouedeme-pedah,,come,health_center,9116,,,f,t,t,01/01/2014,t
+F011,Oumako,,come,health_center,5276,,,f,t,t,01/01/2014,t
+F012,Come,,come,health_center,42887,,,f,t,t,01/01/2014,t
+F013,Adjaha,,grand,health_center,8538,,,f,t,t,01/01/2014,t
+F014,Agoue,,grand,health_center,14147,,,f,t,t,01/01/2014,t
+F015,Avlo,,grand,health_center,5040,,,f,t,t,01/01/2014,t
+F016,Djanglanme,,grand,health_center,7672,,,f,t,t,01/01/2014,t
+F017,Gbehoue,,grand,health_center,6570,,,f,t,t,01/01/2014,t
+F018,Sazue,,grand,health_center,5049,,,f,t,t,01/01/2014,t
+F019,Grand-popo,,grand,health_center,12493,,,f,t,t,01/01/2014,t
+F020,Dahe,,houey,health_center,21573,,,f,t,t,01/01/2014,t
+F021,Adrome,,houey,health_center,32604,,,f,t,t,01/01/2014,t
+F022,Honhoue,,houey,health_center,6857,,,f,t,t,01/01/2014,t
+F023,Zoungbonou,,houey,health_center,10111,,,f,t,t,01/01/2014,t
+F024,Houeyogbe,,houey,health_center,9796,,,f,t,t,01/01/2014,t
+F025,Se,,houey,health_center,28961,,,f,t,t,01/01/2014,t

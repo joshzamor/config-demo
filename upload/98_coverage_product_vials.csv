@@ -5,5 +5,5 @@ Polio20,polio20,t
 Penta1,penta1,t
 Penta10,penta10,t
 PCV,pcv10,t
-Measles,measles10,t
-Tetanus,tetanus10,f
+MCV,measles10,t
+TT2,tetanus10,f

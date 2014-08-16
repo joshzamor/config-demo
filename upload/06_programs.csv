@@ -1,5 +1,5 @@
 Program Code,Name,Description,Active,Budgeting Applies,Push
-malaria,Malaria,Malaria Testing and Treatment,t,f,f
-art,ART,Anti-Retroviral Therapy,t,t,f
-em,Essential Medicines,Primary Care – Essential Medications,t,f,f
+malaria,Malaria,Malaria Testing and Treatment,f,f,f
+art,ART,Anti-Retroviral Therapy,f,t,f
+em,Essential Medicines,Primary Care – Essential Medications,f,f,f
 epi,EPI,Routine Immunizations,t,f,t

@@ -1,3 +1,5 @@
 Delivery Zone,Program,Schedule
-dz-east,epi,m
-dz-west,epi,m
+dz-bop,epi,m
+dz-com,epi,m
+dz-gra,epi,m
+dz-hou,epi,m

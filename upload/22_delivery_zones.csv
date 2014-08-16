@@ -1,3 +1,5 @@
 Delivery Zone Code,Delivery Zone Name,Description
-dz-east,East,Delivery Zone East for Informed Push
-dz-west,West,Delivery Zone West for Informed Push
+dz-bop,Bopa District,Bopa District for informed-push replenishment
+dz-com,Comè District,Comè District for informed-push replenishment
+dz-gra,Grand-Popo District,Grand-Popo District for informed-push replenishment
+dz-hou,Houéyogbé District,Houéyogbé District for informed-push replenishment

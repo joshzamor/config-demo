@@ -16,12 +16,11 @@ polio10,Polio (10 dose),injection,2polio,each,,each,1,10,t,t,f,1,t
 polio20,Polio (20 dose),injection,2polio,each,,each,1,20,t,t,f,1,t
 penta1,Pentavalent (1 dose),injection,3penta,each,,each,1,1,t,t,f,1,t
 penta10,Pentavalent (10 dose),injection,3penta,each,,each,1,10,t,t,f,1,t
-pcv10,PCV10,injection,5pcv10,each,,each,1,2,t,t,f,1,t
-hpv2,HPV,injection,6hpv,each,,each,1,2,t,t,f,1,t
-measles10,Sarampo,injection,4measles,each,,each,1,10,t,t,f,1,t
-tetanus10,VAT,injection,7tetanus,each,,each,1,10,t,t,f,1,t
-syringe5ml,Seringa 5ml,syringe,,each,,each,1,1,t,t,f,1,t
-syringe05ml,"Seringa 0,5ml",syringe,,each,,each,1,1,t,t,f,1,t
-syringe005ml,"Seringa 0,05ml",syringe,,each,,each,1,1,t,t,f,1,t
-safetybox,Caixas Inciner.,device,,each,,each,1,1,t,t,f,1,t
-gas,Gás (Cilindro),device,,each,,each,1,1,t,t,f,1,t
+pcv10,PCV,injection,5pcv10,each,,each,1,2,t,t,f,1,t
+hpv2,YFV,injection,6hpv,each,,each,1,2,t,t,f,1,t
+measles10,MCV,injection,4measles,each,,each,1,10,t,t,f,1,t
+tetanus10,TT2,injection,7tetanus,each,,each,1,10,t,t,f,1,t
+syringe5ml,Seringue 5ml,syringe,,each,,each,1,1,t,t,f,1,t
+syringe05ml,"Seringue 0,5ml",syringe,,each,,each,1,1,t,t,f,1,t
+syringe005ml,"Seringue 0,05ml",syringe,,each,,each,1,1,t,t,f,1,t
+safetybox,Collecteur d'Aiguilles,device,,each,,each,1,1,t,t,f,1,t
