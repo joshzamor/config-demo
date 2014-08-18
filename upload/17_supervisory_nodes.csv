@@ -1,4 +1,4 @@
 Supervisory Node Code,Name of Node,Description,Parent Node,Facility Code
-SN80,South Eastern medical services,,,F505
-SN97,Shorewood District Office,,SN80,F3020A
+SN80,South Central Medical Services,,,F505
+SN97,Winkler District Office,,SN80,F3020A
 SN65,Malaria program supervision,,,F3020A
