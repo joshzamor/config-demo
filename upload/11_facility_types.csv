@@ -1,0 +1,7 @@
+Facility Type Code,Name,Description,Nominal Max Month,Nominal EOP,Display Order,Active
+health_center,Health Centre,,3,1,6,t
+dist_hosp,District Hospital,,3,1,5,t
+disp,Dispensary,,3,1,4,t
+comm_clinic,Community Clinic,,3,1,3,t
+reg_hosp,Regional Hospital,,3,1,2,t
+warehouse,Warehouse,,3,1,1,t
