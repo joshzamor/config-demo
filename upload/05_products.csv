@@ -17,12 +17,12 @@ polio20,VPO (20 dose),injection,2polio,each,,each,1,20,t,t,f,1,t
 penta1,Penta (1 dose),injection,3penta,each,,each,1,1,t,t,f,1,t
 penta10,Penta (10 dose),injection,3penta,each,,each,1,10,t,t,f,1,t
 pcv10,PCV13,injection,4pcv10,each,,each,1,1,t,t,f,1,t
-hpv2,HPV,injection,6hpv,each,,each,1,2,f,t,f,1,t
+hpv2,HPV,injection,7hpv,each,,each,1,2,f,t,f,1,t
 yfv1,VAA,injection,6yfv,each,,each,1,10,t,t,f,1,t
 measles10,VAR,injection,5measles,each,,each,1,10,t,t,f,1,t
 tetanus10,VAT,injection,8tetanus,each,,each,1,10,t,t,f,1,t
-syringe5ml,"S dil. 5ml",syringe,,each,,each,1,1,t,t,f,1,t
+syringe5ml,S dil. 5ml,syringe,,each,,each,1,1,t,t,f,1,t
 syringe05ml,"SAB 0,5ml",syringe,,each,,each,1,1,t,t,f,1,t
 syringe005ml,"SAB 0,05ml",syringe,,each,,each,1,1,t,t,f,1,t
-syringe067ml,"S dil. 2/3ml", syringe,,each,,each,1,1,t,t,f,1,t
+syringe067ml,S dil. 2/3ml, syringe,,each,,each,1,1,t,t,f,1,t
 safetybox,Boîte De Sécurité,device,,each,,each,1,1,t,t,f,1,t
