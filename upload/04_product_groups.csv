@@ -1,8 +1,9 @@
 Product Group Code,Product Group Name
 1bcg,BCG
-2polio,Polio
-3penta,Pentavalent
-4measles,MCV
-5pcv10,PCV
-6hpv,YFV
-7tetanus,TT2
+2polio,VPO
+3penta,Penta
+5measles,VAR
+4pcv10,PCV13
+6yfv,VAA
+8tetanus,VAT
+7hpv,HPV
