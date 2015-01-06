@@ -27,5 +27,5 @@ epi,tetanus10,99,t,vac,28
 epi,syringe5ml,99,t,nonvac,34
 epi,syringe05ml,99,t,nonvac,32
 epi,syringe005ml,99,t,nonvac,31
-epi,syringe067ml,99,t,novac,33
+epi,syringe067ml,99,t,nonvac,33
 epi,safetybox,99,t,nonvac,37
